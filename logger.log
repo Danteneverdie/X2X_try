@@ -1,0 +1,28 @@
+2026-04-25 10:58:49,496 - gsss - INFO - datadir:data_test200, logdir:logs\20260425_105849
+2026-04-25 11:04:30,725 - gsss - INFO - Start evaluation
+2026-04-25 11:04:31,147 - gsss - INFO - Spectrum 0, Pixel error = 0.108161; SSIM = 0.501406; Power MAE = 0.0509 dB; NMAE = 0.0013
+2026-04-25 11:04:31,849 - gsss - INFO - Spectrum 1, Pixel error = 0.112957; SSIM = 0.445255; Power MAE = 0.3675 dB; NMAE = 0.0098
+2026-04-25 11:04:32,169 - gsss - INFO - Spectrum 2, Pixel error = 0.138098; SSIM = 0.390714; Power MAE = 0.8876 dB; NMAE = 0.0230
+2026-04-25 11:04:32,503 - gsss - INFO - Spectrum 3, Pixel error = 0.143335; SSIM = 0.366637; Power MAE = 0.7047 dB; NMAE = 0.0184
+2026-04-25 11:04:32,834 - gsss - INFO - Spectrum 4, Pixel error = 0.117875; SSIM = 0.431653; Power MAE = 0.0239 dB; NMAE = 0.0006
+2026-04-25 11:04:33,168 - gsss - INFO - Spectrum 5, Pixel error = 0.133333; SSIM = 0.501026; Power MAE = 0.7864 dB; NMAE = 0.0200
+2026-04-25 11:04:33,505 - gsss - INFO - Spectrum 6, Pixel error = 0.148313; SSIM = 0.417993; Power MAE = 0.8549 dB; NMAE = 0.0220
+2026-04-25 11:04:33,862 - gsss - INFO - Spectrum 7, Pixel error = 0.143474; SSIM = 0.373742; Power MAE = 0.0148 dB; NMAE = 0.0004
+2026-04-25 11:04:34,202 - gsss - INFO - Spectrum 8, Pixel error = 0.140474; SSIM = 0.423653; Power MAE = 0.4836 dB; NMAE = 0.0124
+2026-04-25 11:04:34,561 - gsss - INFO - Spectrum 9, Pixel error = 0.114507; SSIM = 0.497033; Power MAE = 1.0393 dB; NMAE = 0.0269
+2026-04-25 11:04:34,929 - gsss - INFO - Spectrum 10, Pixel error = 0.152679; SSIM = 0.291715; Power MAE = 0.6703 dB; NMAE = 0.0179
+2026-04-25 11:04:35,443 - gsss - INFO - Spectrum 11, Pixel error = 0.122618; SSIM = 0.415713; Power MAE = 0.8687 dB; NMAE = 0.0230
+2026-04-25 11:04:35,831 - gsss - INFO - Spectrum 12, Pixel error = 0.151118; SSIM = 0.360087; Power MAE = 0.7865 dB; NMAE = 0.0203
+2026-04-25 11:04:36,200 - gsss - INFO - Spectrum 13, Pixel error = 0.144917; SSIM = 0.388863; Power MAE = 0.8440 dB; NMAE = 0.0229
+2026-04-25 11:04:36,585 - gsss - INFO - Spectrum 14, Pixel error = 0.118939; SSIM = 0.414195; Power MAE = 0.2925 dB; NMAE = 0.0077
+2026-04-25 11:04:36,981 - gsss - INFO - Spectrum 15, Pixel error = 0.113935; SSIM = 0.517258; Power MAE = 0.0153 dB; NMAE = 0.0004
+2026-04-25 11:04:37,372 - gsss - INFO - Spectrum 16, Pixel error = 0.143463; SSIM = 0.407697; Power MAE = 0.9456 dB; NMAE = 0.0254
+2026-04-25 11:04:37,798 - gsss - INFO - Spectrum 17, Pixel error = 0.165030; SSIM = 0.358023; Power MAE = 0.7973 dB; NMAE = 0.0214
+2026-04-25 11:04:38,203 - gsss - INFO - Spectrum 18, Pixel error = 0.136067; SSIM = 0.392991; Power MAE = 0.0558 dB; NMAE = 0.0015
+2026-04-25 11:04:38,579 - gsss - INFO - Spectrum 19, Pixel error = 0.119501; SSIM = 0.532838; Power MAE = 0.9475 dB; NMAE = 0.0242
+2026-04-25 11:04:38,969 - gsss - INFO - Spectrum 20, Pixel error = 0.110651; SSIM = 0.433442; Power MAE = 0.0650 dB; NMAE = 0.0017
+2026-04-25 11:04:39,362 - gsss - INFO - Spectrum 21, Pixel error = 0.145131; SSIM = 0.527059; Power MAE = 1.9690 dB; NMAE = 0.0496
+2026-04-25 11:04:39,842 - gsss - INFO - Spectrum 22, Pixel error = 0.117518; SSIM = 0.462799; Power MAE = 0.2768 dB; NMAE = 0.0073
+2026-04-25 11:04:40,229 - gsss - INFO - Spectrum 23, Pixel error = 0.196849; SSIM = 0.337741; Power MAE = 2.1864 dB; NMAE = 0.0547
+2026-04-25 11:04:40,612 - gsss - INFO - Spectrum 24, Pixel error = 0.110624; SSIM = 0.568435; Power MAE = 1.0563 dB; NMAE = 0.0270
+2026-04-25 11:04:41,029 - gsss - INFO - Spectrum 25, Pixel error = 0.137326; SSIM = 0.468790; Power MAE = 1.0749 dB; NMAE = 0.0274
